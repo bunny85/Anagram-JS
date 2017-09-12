@@ -1,0 +1,30 @@
+*{
+	margin:0;
+	padding:0;
+}
+body {
+    font-family: 'Helvetica', 'Arial', 'sans-serif';
+    font-size: 12px;
+}
+#container{
+	padding: 20px;
+	width: 50%;
+	background-color: #d3d3d3;
+}
+h3{
+	padding:40px 150px;
+}
+label {
+    display: inline-block;
+}
+input{
+	padding-left: 40px;
+    display: block;
+    margin-bottom: 50px;
+}
+.results {
+    display: none;
+}
+.error {
+    background-color: #FFAAAA;
+}
